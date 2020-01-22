@@ -1,0 +1,12 @@
+name: movieSelection
+title: movieSelection
+username:
+account: fmdluli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1687859
+bundleId: 2746145
+url: https://fmdluli.shinyapps.io/movieSelection/
+when: 1579700206.60199
+asMultiple: FALSE
+asStatic: FALSE
